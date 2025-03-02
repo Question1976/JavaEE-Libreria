@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.bg-login-image {
+	background: url("../img/login.jpg");
+	background-position: center;
+	background-size: cover;
+	border: 0px;
+}
+
+.sizeDiv {
+	/* Anchura 40% del viewport/navegador */
+	width: 40vw;	
+}
+
+#main-menu {
+	left: unset;
+	right: 0;
+}
+
+#ordenar-genero {
+	cursor: pointer;
+}
+
+#form-container {
+	/* Anchura 40% del viewport/navegador */
+	width: 40vw;
+}
